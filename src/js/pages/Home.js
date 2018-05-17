@@ -11,7 +11,7 @@ import * as HomeActions from "../actions/homeActions";
 import HomeVideos from "../components/Home/HomeVideos";
 
 //const(constant) is part of ES6
-const API_KEY = 'AIzaSyCPCtBSZuB49F1-9Xt3DBS6P'; //youtube API Key
+const API_KEY = 'Youtube-API-Key'; //youtube API Key
 
 export default class Home extends Component {
     constructor(props) {
