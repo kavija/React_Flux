@@ -4,7 +4,7 @@ import dispatcher from "../dispatcher";
 import 'babel-polyfill';
 
 //const(constant) is part of ES6
-const API_KEY = 'AIzaSyCPCtBSZuB49F1-9Xt3DBS6PhePkm5j50E'; //youtube API Key
+const API_KEY = 'Youtube-API-Key'; //youtube API Key
 
 class VideoStore extends EventEmitter {
   self = this;    
